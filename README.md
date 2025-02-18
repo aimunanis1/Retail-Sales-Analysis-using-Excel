@@ -56,12 +56,12 @@ From the analysis of the dataset, the following key insights were uncovered:
 ## Screenshots 📸
 
 ### Pivot Table & Pivot Chart Example
-![Pivot Table Example](<img width="727" alt="image" src="https://github.com/user-attachments/assets/62f0f2da-e578-4626-be3f-2b9c8fa4f54d" />
+(<img width="727" alt="image" src="https://github.com/user-attachments/assets/62f0f2da-e578-4626-be3f-2b9c8fa4f54d" />
 
 )
 
 ### Dynamic Slicer Example
-![Slicer Example](<img width="436" alt="image" src="https://github.com/user-attachments/assets/f506b6ae-1a0f-4113-9a23-45a6ae34e628" />
+(<img width="436" alt="image" src="https://github.com/user-attachments/assets/f506b6ae-1a0f-4113-9a23-45a6ae34e628" />
 
 )
 _Interactive slicers for filtering sales data based on beauty and Senior age group only
